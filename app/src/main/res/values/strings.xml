@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BusinessCard</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="mail_icon">Mail Icon</string>
+    <string name="full_name">Ac Doe</string>
+    <string name="job_title">Android Software Engineer</string>
+    <string name="phone_number">123-456-7890</string>
+    <string name="socmed_link">socmed/ac</string>
+    <string name="email_address">ac@gmail.com</string>
 </resources>
